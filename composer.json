@@ -1,0 +1,15 @@
+{
+  "name": "arkitecht/fedex-laravel",
+  "description": "A service provider to integrate FedEx servces into your Laravel Project",
+  "license": "MIT",
+  "require": {
+    "laravel/framework": "5.0 - 5.2",
+    "arkitecht/fedex-php": "dev-master",
+    "wsdltophp/packagebase": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Arkitecht\\FedEx\\Laravel\\": "src/"
+    }
+  }
+}
