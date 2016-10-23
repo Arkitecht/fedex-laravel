@@ -3,7 +3,7 @@
   "description": "A service provider to integrate FedEx servces into your Laravel Project",
   "license": "MIT",
   "require": {
-    "laravel/framework": "5.0 - 5.2",
+    "laravel/framework": "^5.0",
     "arkitecht/fedex-php": "dev-master",
     "wsdltophp/packagebase": "dev-master"
   },
